@@ -19,12 +19,12 @@ const config = {
     "comparablesUrl": "https://drive.google.com/drive/folders/173aD_0h_jtWRm_AaBdoZPwAgkQjsKeh_?usp=drive_link"
   },
   "realtor": {
-    "fullName": "Ashley Veldkamp",
-    "title": "REALTOR®",
+    "fullName": "The Rise Realty Group",
+    "title": "Alex & Mel ",
     "phone": "",
     "email": "info@theriserealtygroup.ca",
     "bio": "Rise Realty Group was established with one core principle in mind: to provide the best real estate experience possible. This philosophy inspired our tagline, ‘raising expectations,’ and our name, Rise Realty Group. We bring over 20 years of experience in the real estate industry and a deep commitment to our community. Our mission goes beyond simply facilitating the buying and selling of homes. We are dedicated to helping you make informed decisions, providing clarity and guidance even in the most complex situations. At Rise Realty Group, we understand that real estate is not just about transactions; it’s about building relationships and fostering trust. We strive to redefine what real estate should be, setting a higher standard for service and client satisfaction. At Rise Realty Group, we are here to raise your expectations and deliver exceptional results.",
-    "photoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/22c01a4b-310d-4097-a0f7-5e664f5b7ed5/028A4024.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XHUXCDDF%2F20250604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250604T180920Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFoaCXVzLXdlc3QtMiJHMEUCIBYTqf32SemRjAG78HhJzG0%2Fffgos0bRLypjx6Vbr4HTAiEArxR503r%2B6MF55h%2FxE7GguBC77%2B3uSsYLJfEoRFF%2FG9oq%2FwMIMxAAGgw2Mzc0MjMxODM4MDUiDHUqk26jm%2B5k2aZc8SrcA0tgPCE7%2Bm4Wy5hkp8VfXX47xLphgpIC1Gr5VzKQexseUohLQl5uC1q9unERw4t%2FVaK%2FloZwLu%2BoopmKU2lzyuE7ft27v5JEKq7S5GTzdi7uFPYyowT%2BfPVKxgchDXJGKin83c7ZgW3xR0XKUbylm8MLKKK82k6VhzTUKrCJ%2FxxtPOaF7WJxvzLnH0zVuJwmeWLq7buWhfFw1uhC8o55f5Zun4v2ZpxsKReex9ScnW4R8fCIQOLfnYws%2By3GN%2BUlLOTRyYEEzlJ6agJ8JM0vT9OkBb%2FYvRT59cbIwmAaKt3T7M8NZfFaouIZib7zDuJP0GEge9TpPURbvuRdNEYlOL%2BhBSbm%2BlqvACU8LOPvrLyK%2BD1WLmsAGJyNsFg5YO6qZUf7k1oHKUQuG82XXVr5r%2B9S%2FqwXV733iFLD0IIeUZ3SW4OMTWm7Ckb7MIgKHq4Jz2yLTff8eoXHWYaeF1UUTJ3Mybca74uwyDloLONdk4U0Ji8%2BZgH0l63%2BJxMCZm9ibEMdUIWg1ZXggpi%2BOpV0EXZYTGG3IA05QvswAqs2orzjhQcL1TLYaJNauRdKIHjocs0N8WM%2BZDtj9itudIQieyD26ENmlQILuefo22THJUsqV7SieCYJxWWB8qv8MJOHgsIGOqUBWo834a6VWMZYB6QOxXddQoxkD6Ge4DuBylJdJ4Aj2xECBkzguXg45MU8r1zypTD9nGqEbchuvTg4uuh5koaz1InFahgFiXQZSaK5DIJSRJ5iMp22vNf8PA9nK%2BIKTUlCbD8UmwN6GoRSy5NyiboBOTHOj9zfpHjovZ7%2FK1SFTtpAjcmC3adySwxXp9rhrocoXa9uFQ3V9sv7rPam7zqOq7p3h4Dv&X-Amz-Signature=bb6005fb6a7a082bd76850080e59ed73fabfb727fa657db424b283dcbe5580c4&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "photoUrl": "https://theriserealtygroup.ca/wp-content/uploads/2024/10/Meet-the-Rise-Realty-Group.png",
     "social": {
       "facebook": "https://www.facebook.com/theriserealtygroup/",
       "instagram": "https://www.instagram.com/theriserealtygroup/?hl=en"

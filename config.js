@@ -48,16 +48,12 @@ const config = {
         "text": "Property Listing URL"
       },
       {
-        "icon": "fas fa-chart-column",
-        "text": "Recent Neighborhood Sales"
-      },
-      {
         "icon": "fas fa-chart-bar",
         "text": "On-Market Comparables"
       },
       {
         "icon": "fas fa-vr-cardboard",
-        "text": "Virtual Tour"
+        "text": "Video Tour"
       }
     ]
   },

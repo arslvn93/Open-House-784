@@ -48,6 +48,10 @@ const config = {
         "text": "Property Listing URL"
       },
       {
+        "icon": "fas gift",
+        "text": "Enter a $20 gift card Giveaway to OMG Ice Cream"
+      },
+      {
         "icon": "fas fa-chart-bar",
         "text": "On-Market Comparables"
       },

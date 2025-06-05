@@ -58,7 +58,7 @@ const config = {
     ]
   },
   "meta": {
-    "pageTitlePrefix": "🏡 Ashley Veldkamp Open House",
+    "pageTitlePrefix": "🏡 The Rise Realty Group Open House",
     "navBrandLogoText": "OPEN HOUSE",
     "privacyPolicyLink": "https://theriserealtygroup.ca/"
   },

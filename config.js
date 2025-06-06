@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "72 Hillcrest Avenue",
     "city": "Brantford",
     "cityStateZip": "Brantford, ON N3T 5X8",
-    "heroSubtitle": "It is a perfect family home, completely turnkey, featuring 4 beds, 3 baths and a pool. Close to amenities, great schools, and trails. Set in a friendly, quiet neighbourhood. Register to receive the Home & Neighbourhood Info Package including: Property's High Quality Pictures, Exclusive Video Tour, and Market's Comparables.",
+    "heroSubtitle": "It is a perfect family home, completely turnkey, featuring 3 beds, 3 baths and a pool. Close to amenities, great schools, and trails. Set in a friendly, quiet neighbourhood. Register to receive the Home & Neighbourhood Info Package including: Property's High Quality Pictures, Exclusive Video Tour, and Market's Comparables.",
     "backgroundImageUrl": "https://photos.zillowstatic.com/fp/0c7e6e260c8e23424ab7a640fbc5a14d-cc_ft_1536.webp",
     "listingPrice": "$799,900",
     "numBeds": "4 beds",

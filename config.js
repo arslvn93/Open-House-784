@@ -57,7 +57,7 @@ const config = {
       },
       {
         "icon": "fas fa-gift",
-        "text": "Enter a $20 gift card Giveaway to OMG Ice Cream"
+        "text": "When you sign in you’ll be entered in a draw for your chance to win a $20 OMG Ice Cream gift card!"
       }
     ]
   },

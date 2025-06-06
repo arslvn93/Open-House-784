@@ -19,8 +19,8 @@ const config = {
     "comparablesUrl": "https://drive.google.com/drive/folders/173aD_0h_jtWRm_AaBdoZPwAgkQjsKeh_?usp=drive_link"
   },
   "realtor": {
-    "fullName": "Alex & Mel",
-    "title": "The Rise Realty Group",
+    "fullName": "Alex & Mel from The Rise Realty Group",
+    "title": "Raising Expectations",
     "phone": "519-209-2721",
     "email": "info@theriserealtygroup.ca",
     "bio": "Rise Realty Group was established with one core principle in mind: to provide the best real estate experience possible. This philosophy inspired our tagline, ‘raising expectations,’ and our name, Rise Realty Group. We bring over 20 years of experience in the real estate industry and a deep commitment to our community. \nOur mission goes beyond simply facilitating the buying and selling of homes. We are dedicated to helping you make informed decisions, providing clarity and guidance even in the most complex situations. \nAt Rise Realty Group, we understand that real estate is not just about transactions; it’s about building relationships and fostering trust. We strive to redefine what real estate should be, setting a higher standard for service and client satisfaction. \nAt Rise Realty Group, we are here to raise your expectations and deliver exceptional results.",
